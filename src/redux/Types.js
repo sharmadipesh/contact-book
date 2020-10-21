@@ -1,0 +1,10 @@
+export const REDUX_SETUP = 'REDUX_SETUP';
+export const CONTACT_LIST = 'CONTACT_LIST';
+export const CONTACT_USER_DETAILS = 'CONTACT_USER_DETAILS';
+export const ADD_FAVOURITE = 'ADD_FAVOURITE';
+export const REMOVE_FAVOURITE = 'REMOVE_FAVOURITE';
+
+
+
+
+
